@@ -36,7 +36,7 @@ There is no major affects to replacing the 9th graders from Thomas High School s
 #### Reading (without 9th graders from Thomas High School)
 ![Reading Score Challenge](./Resources/reading_performance_grade_challenge.png)
 
-Furthermore, there was no change to the Scores by school spending, Scores by school size, and Scores by school type. There was not change because the below tables leverage the data from school summary and that data had minor changes. The biggest difference before and after removing the 9th graders from Thomas High School is minus 0.3. Which in a large dataset such this one, 0.3 is not going to be easily visible in high-level analysis.
+Furthermore, there was no change to the Scores by school spending, Scores by school size, and Scores by school type. There was not change because the below tables leverage the data from school summary and that data had minor changes. The biggest difference before and after removing the 9th graders from Thomas High School is minus 0.3. Which in a large dataset such this one, 0.3 is not going to be easily visible in a high-level analysis.
 
 ### Scores by school spending
 ![Score By Spending](./Resources/score_by_spending.png)
@@ -48,3 +48,4 @@ Furthermore, there was no change to the Scores by school spending, Scores by sch
 ![Score By Type](./Resources/score_by_type.png)
   
 ## Summary
+The four major changes to the school district analysis are changes to the % Overall Passing, % Passing Reading, % Passing Math, and Average Math Score. The % Overall Passing and % Passing Reading values went down by 0.3. The % Passing Math and Average Math Score values went down by 0.1. Besides these four major changes the ovarll school district analysis after reading and math score for the 9th grade at Thomas High School have been reaplaced with NaNs remained the same. Thomas High School still remained 2nd place as the top performing school when sorting by % Overall Passing. In addition, the tables Score by school spending, Scores by school size, and Scores by school type remained the same after replacing 9th grade at Thomas High School reading and math scores with NaNs.
