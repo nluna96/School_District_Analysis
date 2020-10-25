@@ -12,27 +12,39 @@ The district summary was not affected after removing the 9th graders from Thomas
 ### District Summary without 9th graders from Thomas High School
 ![District Summary Challenge](./Resources/school_summary_challenge.png)
 
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+Replacing the 9th graders math and reading scores did not affect Thomas High School's performance relative to other schools. Below are table showing that despite the changes to Average Math Score, Average Reading Score, % Passing Math, % Passing Reading, and %Overall Passing there was no shift. The change was really minor that it did not remove Thomas High School from the 2nd place as the top performing schools.
 
+### Top Performing Schools with 9th graders from Thomas High School
 ![Top Performing](./Resources/top_performing.png)
 
+### Top Performing Schools without 9th graders from Thomas High School
 ![Top Performing Challenge](./Resources/top_performing_challenge.png)
 
-- How does replacing the ninth-grade scores affect the following:
-  - Math and reading scores by grade
-  
-    ![Math Score](./Resources/math_performance_grade.png)
-    ![Math Score Challenge](./Resources/math_performance_grade_challenge.png)
-    
-    ![Reading Score](./Resources/reading_performance_grade.png)
-    ![Reading Score Challenge](./Resources/reading_performance_grade_challenge.png)
-  - Scores by school spending
-    ![Score By Spending](./Resources/score_by_spending.png)
-    
-  - Scores by school size
-    ![Score By Size](./Resources/score_by_size.png)
-    
-  - Scores by school type
-    ![Score By Type](./Resources/score_by_type.png)
+There is no major affects to replacing the 9th graders from Thomas High School scores, because the change only affected Thomas High School. Below are tables showing how the change the Math score from 83.6 to nan and the Reading score from 83.7 to nan. The other schools were not affected and the other grades within Thomas High School were not affected either.
+
+### Math & Reading Scores by grade(with 9th grader from Thomas High School)
+#### Math (with 9th graders from Thomas High School)
+![Math Score](./Resources/math_performance_grade.png)
+
+#### Reading (with 9th graders from Thomas High School)
+![Reading Score](./Resources/reading_performance_grade.png)
+
+### Math & Reading Scores by grade(without 9th grader from Thomas High School)
+#### Math (without 9th graders from Thomas High School)
+![Math Score Challenge](./Resources/math_performance_grade_challenge.png)
+
+#### Reading (without 9th graders from Thomas High School)
+![Reading Score Challenge](./Resources/reading_performance_grade_challenge.png)
+
+Furthermore, there was no change to the Scores by school spending, Scores by school size, and Scores by school type. There was not change because the below tables leverage the data from school summary and that data had minor changes. The biggest difference before and after removing the 9th graders from Thomas High School is minus 0.3. Which in a large dataset such this one, 0.3 is not going to be easily visible in high-level analysis.
+
+### Scores by school spending
+![Score By Spending](./Resources/score_by_spending.png)
+
+### Scores by school size
+![Score By Size](./Resources/score_by_size.png)
+
+### Scores by school type
+![Score By Type](./Resources/score_by_type.png)
   
 ## Summary
