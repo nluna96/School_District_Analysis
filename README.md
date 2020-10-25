@@ -20,7 +20,7 @@ Replacing the 9th grader's math and reading scores did not affect Thomas High Sc
 ### Top Performing Schools without 9th graders from Thomas High School
 ![Top Performing Challenge](./Resources/top_performing_challenge.png)
 
-There are no major effects when replacing the 9th graders from Thomas High School scores because the change only affected Thomas High School. Below are tables showing how the change the Math score from 83.6 to nan and the Reading score from 83.7 to nan. The other schools were not affected and the other grades within Thomas High School were not affected either.
+There are no major effects when replacing the 9th graders from Thomas High School scores because the change only affected Thomas High School. Below are tables showing how the Math score went from 83.6 to nan and the Reading score went from 83.7 to nan. The other schools were not affected and the other grades within Thomas High School were not affected either.
 
 ### Math & Reading Scores by grade(with 9th grader from Thomas High School)
 #### Math (with 9th graders from Thomas High School)
